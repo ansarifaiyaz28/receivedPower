@@ -2,7 +2,7 @@
 
 from computation import distanceTo
 import numpy as np
-from fractions import gcd
+from math import gcd
 #import math
 
 def boundaryCoordinates(n):

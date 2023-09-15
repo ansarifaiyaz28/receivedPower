@@ -1,6 +1,3 @@
-
-
-
 import numpy as np
 from math import pi, log10, sqrt, pow
 
